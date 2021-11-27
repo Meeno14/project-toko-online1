@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "barang": "Whitelab Brightening Facial Wash",
+      "userid": 1,
+      "diskon": 100,
+      "harga": 37000,
+      "lokasi": "Surabaya",
+      "stok": 200,
+      "kondisi": "baru",
+      "kategori": "kecantikan",
+      "fotoproduk": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/11/12/2a9e6c44-6d1b-484a-8584-db242f3f428e.jpg.webp?ect=4g",
+      "id": 1
+    },
+    {
+      "barang": "Tas Kalung Dompet Pria Tempat HP Murah Sacko - Hitam ",
+      "userid": 1,
+      "diskon": 100,
+      "lokasi": "Malang",
+      "harga": 24900,
+      "stok": 60,
+      "kondisi": "Baru",
+      "kategori": "Aksesoris",
+      "fotoproduk": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/8/12/04fc71fd-616b-4e3d-aa41-242a28e4bef9.jpg.webp?ect=4g",
+      "id": 2
+    },
+    {
+      "barang": "Rexus Daxa M84 Ultimate Wireless / BT / Wired Mechanical Keyboard - WHITE GREY, RED SWITCH",
+      "userid": 1,
+      "diskon": 0,
+      "harga": "1039000",
+      "lokasi": "jakarta pusat",
+      "stok": "50",
+      "kondisi": "Baru",
+      "kategori": "elektronik",
+      "fotoproduk": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/10/7/bb5455d6-6b63-4d62-91dd-c0f6d3c3675b.png.webp?ect=4g",
+      "id": 3
+    },
+    {
+      "barang": "TOP SPEAKER BLUETOOTH G2 TABLEPRO MG2 MEGABASS STEREO WIRELESS",
+      "userid": 3,
+      "diskon": 0,
+      "harga": "45000",
+      "lokasi": "makassar",
+      "stok": "78",
+      "kondisi": "Baru",
+      "kategori": "elektronik",
+      "fotoproduk": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/1/4cf04199-81ec-45f5-b49e-9d0255568632.jpg.webp?ect=4g",
+      "id": 4
+    },
+    {
+      "barang": "Highpoint Meja kerja minimalis unik - Bremen - Tanpa Instalasi, Putih",
+      "userid": 3,
+      "diskon": 32,
+      "harga": "1067000",
+      "lokasi": "jakarta utara",
+      "stok": "150",
+      "kondisi": "Baru",
+      "kategori": "perabot",
+      "fotoproduk": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/30/50402808-1db1-4aef-9bb4-63114657ba71.jpg.webp?ect=4g",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "helmi.abdillah01@gmail.com",
+      "username": "Meeno",
+      "saldo": 200000,
+      "password": "11121314",
+      "searched": "elektronik",
+      "picture": "https://ecs7.tokopedia.net/img/cache/300/default_picture_user/default_toped-25.jpg",
+      "roles": "user",
+      "id": 1
+    },
+    {
+      "email": "qwerty@gmail.com",
+      "username": "Admin",
+      "password": "789456123",
+      "searched": "perabot",
+      "picture": "https://ecs7.tokopedia.net/img/cache/300/default_picture_user/default_toped-15.jpg",
+      "roles": "admin",
+      "id": 2
+    },
+    {
+      "email": "hxlkjvxlj@gmail.com",
+      "username": "irvanda",
+      "saldo": 0,
+      "password": "12345678",
+      "picture": "https://ecs7.tokopedia.net/img/cache/300/default_picture_user/default_toped-24.jpg",
+      "roles": "user",
+      "id": 3
+    },
+    {
+      "email": "xlciuvrkj@gmail.com",
+      "username": "ilham",
+      "saldo": 0,
+      "password": "1111111",
+      "picture": "https://ecs7.tokopedia.net/img/cache/300/default_picture_user/default_toped-25.jpg",
+      "roles": "user",
+      "id": 4
+    }
+  ]
+}
